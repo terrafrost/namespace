@@ -1,0 +1,17 @@
+{
+    "name": "terrafrost/namespace",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Terrafrost\\Namespace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "terrafrost",
+            "email": "terrafrost@gmail.com"
+        }
+    ],
+    "require": {}
+}
