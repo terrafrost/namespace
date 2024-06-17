@@ -1,7 +1,7 @@
 <?php
-namespace Terrafrost/Namespace;
+namespace Terrafrost\Namespace;
 
-class SSH2
+class Demo
 {
     public function __construct()
     {
